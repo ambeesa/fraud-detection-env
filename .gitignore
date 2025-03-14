@@ -1,0 +1,5 @@
+bin/
+lib/
+include/
+*.log
+__pycache__/
